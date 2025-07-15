@@ -84,7 +84,8 @@ Puedes hacer un pull request con tus mejoras. 💡
 
 ## 📸 Vista previa
 
-> *(Puedes incluir una captura de pantalla o GIF aquí si deseas mostrar cómo luce la app)*
+> *(<img width="1892" height="1000" alt="image" src="https://github.com/user-attachments/assets/95663485-ff42-4802-b8c3-c38e234a826d" />
+)*
 
 ---
 
